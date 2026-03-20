@@ -68,8 +68,6 @@
 
 ## 📸 系统预览 (Screenshots)
 
-*(提示：上传图片到 GitHub 仓库的 `images` 文件夹后，将下方的链接替换为实际的相对路径，如 `docs/images/dashboard.png`)*
-
 | 🚨 预警大屏与智能平替联动 | 📈 单品告急线动态计算 | ⚙️ 虚拟套组透视 |
 | :---: | :---: | :---: |
 | ![平替调度](./dashboard1.gif) | ![周转预测](./dashboardv2.gif) | ![控制台](./dashboard3.gif) |

@@ -72,7 +72,7 @@
 
 | 🚨 预警大屏与智能平替联动 | 📈 动态周转预测与补货建议 | ⚙️ 控制台与自定义阈值 |
 | :---: | :---: | :---: |
-| ![平替调度](./images/screenshot1.png) | ![周转预测](./images/screenshot2.png) | ![控制台](./images/screenshot3.png) |
+| ![平替调度](./dashboard1.gif) | ![周转预测](./images/screenshot2.png) | ![控制台](./images/screenshot3.png) |
 
 ---
 

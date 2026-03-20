@@ -72,7 +72,7 @@
 
 | 🚨 预警大屏与智能平替联动 | 📈 单品告急线动态计算 | ⚙️ 虚拟套组透视 |
 | :---: | :---: | :---: |
-| ![平替调度](./dashboard1.gif) | ![周转预测](./dashboarv1.gif) | ![控制台](./dashboard3.gif) |
+| ![平替调度](./dashboard1.gif) | ![周转预测](./dashboardv2.gif) | ![控制台](./dashboard3.gif) |
 
 ---
 

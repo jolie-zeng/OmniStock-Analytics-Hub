@@ -70,9 +70,9 @@
 
 *(提示：上传图片到 GitHub 仓库的 `images` 文件夹后，将下方的链接替换为实际的相对路径，如 `docs/images/dashboard.png`)*
 
-| 🚨 预警大屏与智能平替联动 | 📈 动态周转预测与补货建议 | ⚙️ 控制台与自定义阈值 |
+| 🚨 预警大屏与智能平替联动 | 📈 单品告急线动态计算 | ⚙️ 虚拟套组透视 |
 | :---: | :---: | :---: |
-| ![平替调度](./dashboard1.gif) | ![周转预测](./images/screenshot2.png) | ![控制台](./images/screenshot3.png) |
+| ![平替调度](./dashboard1.gif) | ![周转预测](./dashboarv1.gif) | ![控制台](./dashboard3.gif) |
 
 ---
 
